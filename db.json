@@ -41,6 +41,20 @@
       "price" : 15,
       "description" : "Great comfortable joggers",
       "image" : "https://res.cloudinary.com/daintu6ky/image/upload/v1572098175/Screenshot_2019-10-26_at_2.54.38_PM.png"
+    },
+    {
+      "id" : "wkr-2334-4442-dj327",
+      "name" : "White vintage shirt",
+      "price" : 20,
+      "description" : "Awesome white durable shirt",
+      "image" : "https://res.cloudinary.com/daintu6ky/image/upload/v1572096073/Screenshot_2019-10-26_at_2.18.42_PM.png"
+    },
+    {
+      "id" : "wkr-2334-4442-dj328",
+      "name" : "Joggers",
+      "price" : 15,
+      "description" : "Great comfortable joggers",
+      "image" : "https://res.cloudinary.com/daintu6ky/image/upload/v1572098175/Screenshot_2019-10-26_at_2.54.38_PM.png"
     }
   ]
 }
