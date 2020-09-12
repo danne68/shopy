@@ -1,9 +1,6 @@
-assets/node_modules/
 node_modules/
-grunt/npm-debug.log
+.next/
 .DS_Store
-
-img/.DS_Store
 .vscode
 .env 
 docker-compose.yml
