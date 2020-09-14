@@ -171,7 +171,7 @@
             "price":20,
             "description":"Awesome white durable shirt",
             "thumb":"https://res.cloudinary.com/daintu6ky/image/upload/v1572096073/Screenshot_2019-10-26_at_2.18.42_PM.png",
-            "image":"https://novine-react.envytheme.com/_next/static/images/1-6a494688ade5875c6bc3109e33af850d.jpg"
+            "image":""
          },
          {
             "id":"wkr-2334-4442-dj326",
@@ -179,7 +179,7 @@
             "price":15,
             "description":"Great comfortable joggers",
             "thumb":"https://res.cloudinary.com/daintu6ky/image/upload/v1572098175/Screenshot_2019-10-26_at_2.54.38_PM.png",
-            "image":"https://novine-react.envytheme.com/_next/static/images/1-6a494688ade5875c6bc3109e33af850d.jpg"
+            "image":""
          },
          {
             "id":"wkr-2334-4442-dj327",
@@ -187,7 +187,7 @@
             "price":20,
             "description":"Awesome white durable shirt",
             "thumb":"https://res.cloudinary.com/daintu6ky/image/upload/v1572096073/Screenshot_2019-10-26_at_2.18.42_PM.png",
-            "image":"https://novine-react.envytheme.com/_next/static/images/1-6a494688ade5875c6bc3109e33af850d.jpg"
+            "image":""
          },
          {
             "id":"wkr-2334-4442-dj328",
@@ -195,7 +195,7 @@
             "price":15,
             "description":"Great comfortable joggers",
             "thumb":"https://res.cloudinary.com/daintu6ky/image/upload/v1572098175/Screenshot_2019-10-26_at_2.54.38_PM.png",
-            "image":"https://novine-react.envytheme.com/_next/static/images/1-6a494688ade5875c6bc3109e33af850d.jpg"
+            "image":""
          }
       ]
 
