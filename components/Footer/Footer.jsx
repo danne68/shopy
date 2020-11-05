@@ -1,5 +1,4 @@
 const Footer = () => {
-
     return (
         <footer className="px-2 py-4 flex flex-col justify-end border-t border-white text-white font-small bg-gray-900">
             <div className="container flex flex-row text-center justify-center">

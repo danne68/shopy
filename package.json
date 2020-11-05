@@ -15,7 +15,9 @@
     "isomorphic-unfetch": "^3.0.0",
     "next": "^9.4.4",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-icons": "^3.11.0",
+    "sass": "^1.26.10"
   },
   "devDependencies": {
     "postcss-preset-env": "^6.7.0",

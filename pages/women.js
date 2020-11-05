@@ -7,14 +7,14 @@ const Index = ({...props}) => {
     <>
       <Header />
       <div className="container px-2">
-        <Products route="home" products={props.products}/>
+        <Products route="women" products={props.products}/>
       </div>
     </>
   )
 }
 
 Index.getInitialProps = async function() {
-  const res = await fetch('https://my-json-server.typicode.com/danne68/shopy/home');
+  const res = await fetch('https://my-json-server.typicode.com/danne68/shopy/women');
   const data = await res.json();
   return {
     products: data
